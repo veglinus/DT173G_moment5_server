@@ -9,7 +9,7 @@ Klona och lägg in i webbserver för att köra. Kopplas till en databas med föl
 code(varchar 6) PK
 name(text)
 progression(varchar 5)
-sullabus(text)
+syllabus(text)
 
 ## API
 
